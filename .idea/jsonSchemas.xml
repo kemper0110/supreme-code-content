@@ -8,7 +8,7 @@
             <SchemaInfo>
               <option name="generatedName" value="New Schema" />
               <option name="name" value="content.schema.json" />
-              <option name="relativePathToSchema" value="schemas/content.schema.json" />
+              <option name="relativePathToSchema" value="https://raw.githubusercontent.com/kemper0110/supreme-code-content/master/schemas/content.schema.json" />
               <option name="schemaVersion" value="JSON Schema version 7" />
               <option name="patterns">
                 <list>
@@ -25,7 +25,7 @@
             <SchemaInfo>
               <option name="generatedName" value="New Schema" />
               <option name="name" value="problem.schema.json" />
-              <option name="relativePathToSchema" value="schemas/problem.schema.json" />
+              <option name="relativePathToSchema" value="https://raw.githubusercontent.com/kemper0110/supreme-code-content/master/schemas/problem.schema.json" />
               <option name="schemaVersion" value="JSON Schema version 7" />
               <option name="patterns">
                 <list>
