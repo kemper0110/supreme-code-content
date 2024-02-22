@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15d28afa-2cfa-4b6b-a492-b0b127002707" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/manifest.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/problems/TwoSum/manifest.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/content.schema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schemas/problem.schema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/supreme-code-content.iml" afterDir="false" />
-    </list>
+    <list default="true" id="15d28afa-2cfa-4b6b-a492-b0b127002707" name="Changes" comment="??" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,12 +52,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708632626114</updated>
-      <workItem from="1708632627148" duration="1094000" />
+      <workItem from="1708632627148" duration="1964000" />
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <option name="closed" value="true" />
+      <created>1708633747559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708633747559</updated>
+    </task>
+    <task id="LOCAL-00002" summary="remote schema repo added">
+      <option name="closed" value="true" />
+      <created>1708633974363</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708633974363</updated>
+    </task>
+    <task id="LOCAL-00003" summary="??">
+      <option name="closed" value="true" />
+      <created>1708633978271</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708633978271</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <MESSAGE value="remote schema repo added" />
+    <MESSAGE value="??" />
+    <option name="LAST_COMMIT_MESSAGE" value="??" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
