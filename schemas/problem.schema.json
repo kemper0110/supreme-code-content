@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "supreme-code/problem.schema.json",
+  "title": "problem",
+  "description": "Schema of problem manifest",
+  "type": "object",
+  "properties": {
+    "id": {
+      "description": "unique identifier of problem",
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "difficulty": {
+      "type": "string",
+      "anyOf": [
+        {
+          "const": "EASY"
+        },
+        {
+          "const": "NORMAL"
+        },
+        {
+          "const": "HARD"
+        }
+      ]
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "description",
+    "difficulty"
+  ]
+}
