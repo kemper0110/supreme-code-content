@@ -28,4 +28,5 @@ description: |
   -100 <= Node.val <= 100
   Both list1 and list2 are sorted in non-decreasing order.
 difficulty: Easy
-languages: []
+languages:
+  - Javascript
