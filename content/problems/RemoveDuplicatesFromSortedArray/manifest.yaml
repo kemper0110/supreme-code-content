@@ -1,3 +1,4 @@
+# $schema: ../../../schemas/problem.schema.json
 id: "1234"
 name: Remove Duplicates from Sorted Array
 description: |
@@ -44,4 +45,5 @@ description: |
   -100 <= nums[i] <= 100
   nums is sorted in non-decreasing order.
 difficulty: Easy
-languages: []
+languages:
+  - Javascript

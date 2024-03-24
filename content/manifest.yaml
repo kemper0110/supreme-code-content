@@ -1,2 +1,6 @@
+# $schema: ../schemas/content.schema.json
 problems:
+  - MergeKSortedLists
+  - MergeTwoSortedLists
+  - RemoveDuplicatesFromSortedArray
   - TwoSum
