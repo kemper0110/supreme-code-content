@@ -3,5 +3,13 @@
   "$id": "supreme-code/content.schema.json",
   "title": "content",
   "description": "Schema of content manifest",
-  "type": "object"
+  "type": "object",
+  "properties": {
+    "problems": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
 }
