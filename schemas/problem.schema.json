@@ -19,15 +19,32 @@
       "type": "string",
       "anyOf": [
         {
-          "const": "EASY"
+          "const": "Easy"
         },
         {
-          "const": "NORMAL"
+          "const": "Normal"
         },
         {
-          "const": "HARD"
+          "const": "Hard"
         }
       ]
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "anyOf": [
+          {
+            "const": "Cpp"
+          },
+          {
+            "const": "Java"
+          },
+          {
+            "const": "Javascript"
+          }
+        ]
+      }
     }
   },
   "required": [
