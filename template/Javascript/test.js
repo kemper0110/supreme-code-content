@@ -1,3 +1,5 @@
+const {expect, describe, test} = require("@jest/globals");
+
 const twoSum = require('./solution');
 
 const items = [
