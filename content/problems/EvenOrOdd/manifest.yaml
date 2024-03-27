@@ -1,0 +1,7 @@
+# $schema: ../../../schemas/problem.schema.json
+id: "1234"
+name: Even or odd
+description: |
+  Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
+difficulty: Easy
+languages: []
