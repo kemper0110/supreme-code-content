@@ -1,6 +1,14 @@
 # $schema: ../schemas/content.schema.json
 problems:
+  - DisemvowelTrolls
+  - EvenOrOdd
+  - FindTheOddInt
   - MergeKSortedLists
   - MergeTwoSortedLists
+  - MultipleOf3Or5
   - RemoveDuplicatesFromSortedArray
+  - StopgninnipSMysdroW
+  - SumofDigitsDigitalRoot
   - TwoSum
+  - VowelCount
+  - WhoLikesIt
