@@ -5,10 +5,6 @@
   "description": "Schema of problem manifest",
   "type": "object",
   "properties": {
-    "id": {
-      "description": "unique identifier of problem",
-      "type": "string"
-    },
     "name": {
       "type": "string"
     },
