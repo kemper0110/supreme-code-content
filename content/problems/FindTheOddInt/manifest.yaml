@@ -19,3 +19,6 @@ description: |
   Fundamentals
 difficulty: Normal
 languages: []
+tags:
+  - arrays
+  - bitwise_operations

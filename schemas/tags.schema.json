@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "supreme-code/tags.schema.json",
+  "title": "tags",
+  "definitions": {
+    "tagEnum": {
+      "enum": [
+        "sorting",
+        "conditional",
+        "arrays",
+        "two_pointers",
+        "searching",
+        "dynamic_programming",
+        "recursion",
+        "graph_algorithms",
+        "greedy_algorithms",
+        "divide_and_conquer",
+        "backtracking",
+        "data_structures",
+        "tree_traversal",
+        "computational_geometry",
+        "string_algorithms",
+        "math",
+        "bitwise_operations",
+        "complexity_analysis",
+        "hash_table",
+        "heaps",
+        "linked_list",
+        "stack",
+        "queue",
+        "binary_search",
+        "breadth_first_search",
+        "depth_first_search",
+        "shortest_paths",
+        "dynamic_graphs",
+        "network_flow",
+        "linear_programming",
+        "geometric_algorithms",
+        "combinatorial_optimization",
+        "approximation_algorithms",
+        "randomized_algorithms",
+        "parallel_algorithms"
+      ]
+    }
+  },
+  "description": "Schema of tags manifest",
+  "type": "array",
+  "uniqueItems": true,
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "$ref": "#/definitions/tagEnum"
+      },
+      "name": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "id",
+      "name"
+    ]
+  }
+}

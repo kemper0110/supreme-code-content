@@ -18,3 +18,5 @@ description: |
   Note: For 4 or more names, the number in `"and 2 others"` simply increases.
 difficulty: Normal
 languages: []
+tags:
+  - string_algorithms

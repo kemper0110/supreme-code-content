@@ -47,3 +47,6 @@ description: |
 difficulty: Easy
 languages:
   - Javascript
+tags:
+  - arrays
+  - two_pointers

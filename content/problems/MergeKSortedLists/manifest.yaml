@@ -41,3 +41,6 @@ description: |
 difficulty: Hard
 languages:
   - Javascript
+tags:
+  - linked_list
+  - heaps

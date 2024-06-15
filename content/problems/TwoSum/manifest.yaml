@@ -40,3 +40,6 @@ languages:
   - Cpp
   - Java
   - Javascript
+tags:
+  - arrays
+  - hash_table

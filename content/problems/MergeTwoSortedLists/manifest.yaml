@@ -30,3 +30,5 @@ description: |
 difficulty: Easy
 languages:
   - Javascript
+tags:
+  - linked_list

@@ -27,6 +27,7 @@
     },
     "languages": {
       "type": "array",
+      "uniqueItems": true,
       "items": {
         "type": "string",
         "anyOf": [
@@ -41,12 +42,22 @@
           }
         ]
       }
+    },
+    "tags": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "$ref": "tags.schema.json#/definitions/tagEnum"
+      }
     }
   },
   "required": [
     "id",
     "name",
     "description",
-    "difficulty"
+    "difficulty",
+    "tags",
+    "languages"
   ]
 }

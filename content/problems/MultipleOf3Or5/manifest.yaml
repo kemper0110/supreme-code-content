@@ -13,3 +13,6 @@ description: |
   _**Courtesy of projecteuler.net** ([Problem 1](https://projecteuler.net/problem=1))_
 difficulty: Normal
 languages: []
+tags:
+  - math
+  - conditional
