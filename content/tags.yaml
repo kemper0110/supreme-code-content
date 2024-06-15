@@ -1,47 +1,48 @@
 # $schema: ../schemas/tags.schema.json
-- id: sorting
-  name: Сортировка
-- id: conditional
-  name: Условные операторы
-- id: searching
-  name: Поиск
-- id: dynamic_programming
-  name: Динамическое программирование
-- id: recursion
-  name: Рекурсия
-- id: arrays
-  name: Массивы
-- id: two_pointers
-  name: Два указателя
-- id: graph_algorithms
-  name: Алгоритмы на графах
-- id: greedy_algorithms
-  name: Жадные алгоритмы
-- id: divide_and_conquer
-  name: Разделяй и властвуй
-- id: data_structures
-  name: Структуры данных
-- id: tree_traversal
-  name: Обход дерева
-- id: string_algorithms
-  name: Строковые алгоритмы
-- id: math
-  name: Математика
-- id: bitwise_operations
-  name: Побитовые операции
-- id: hash_table
-  name: Хэш-таблицы
-- id: heaps
-  name: Кучи (Heap)
-- id: linked_list
-  name: Связанные списки
-- id: stack
-  name: Стек
-- id: queue
-  name: Очередь
-- id: binary_search
-  name: Бинарный поиск
-- id: linear_programming
-  name: Линейное программирование
-- id: geometric_algorithms
-  name: Геометрические алгоритмы
+tags:
+  - id: sorting
+    name: Сортировка
+  - id: conditional
+    name: Условные операторы
+  - id: searching
+    name: Поиск
+  - id: dynamic_programming
+    name: Динамическое программирование
+  - id: recursion
+    name: Рекурсия
+  - id: arrays
+    name: Массивы
+  - id: two_pointers
+    name: Два указателя
+  - id: graph_algorithms
+    name: Алгоритмы на графах
+  - id: greedy_algorithms
+    name: Жадные алгоритмы
+  - id: divide_and_conquer
+    name: Разделяй и властвуй
+  - id: data_structures
+    name: Структуры данных
+  - id: tree_traversal
+    name: Обход дерева
+  - id: string_algorithms
+    name: Строковые алгоритмы
+  - id: math
+    name: Математика
+  - id: bitwise_operations
+    name: Побитовые операции
+  - id: hash_table
+    name: Хэш-таблицы
+  - id: heaps
+    name: Кучи (Heap)
+  - id: linked_list
+    name: Связанные списки
+  - id: stack
+    name: Стек
+  - id: queue
+    name: Очередь
+  - id: binary_search
+    name: Бинарный поиск
+  - id: linear_programming
+    name: Линейное программирование
+  - id: geometric_algorithms
+    name: Геометрические алгоритмы

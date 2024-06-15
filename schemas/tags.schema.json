@@ -44,22 +44,27 @@
     }
   },
   "description": "Schema of tags manifest",
-  "type": "array",
-  "uniqueItems": true,
-  "items": {
-    "type": "object",
-    "properties": {
-      "id": {
-        "type": "string",
-        "$ref": "#/definitions/tagEnum"
-      },
-      "name": {
-        "type": "string"
+  "type": "object",
+  "properties": {
+    "tags": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "$ref": "#/definitions/tagEnum"
+          },
+          "name": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "name"
+        ]
       }
-    },
-    "required": [
-      "id",
-      "name"
-    ]
+    }
   }
 }
